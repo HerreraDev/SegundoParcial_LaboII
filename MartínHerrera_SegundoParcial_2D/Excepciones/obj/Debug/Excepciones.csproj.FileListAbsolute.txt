@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\Segundo Parcial\MartínHerrera_SegundoParcial_2D\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\marti\Desktop\Segundo Parcial\MartínHerrera_SegundoParcial_2D\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\marti\Desktop\Segundo Parcial\MartínHerrera_SegundoParcial_2D\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\Segundo Parcial\MartínHerrera_SegundoParcial_2D\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Segundo Parcial\MartínHerrera_SegundoParcial_2D\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\marti\Desktop\Segundo Parcial\MartínHerrera_SegundoParcial_2D\Excepciones\obj\Debug\Excepciones.pdb

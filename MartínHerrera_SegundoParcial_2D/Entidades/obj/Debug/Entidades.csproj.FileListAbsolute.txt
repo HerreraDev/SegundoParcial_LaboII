@@ -1,0 +1,11 @@
+C:\Users\marti\Desktop\Segundo Parcial\MartínHerrera_SegundoParcial_2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\marti\Desktop\Segundo Parcial\MartínHerrera_SegundoParcial_2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\marti\Desktop\Segundo Parcial\MartínHerrera_SegundoParcial_2D\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\Segundo Parcial\MartínHerrera_SegundoParcial_2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Segundo Parcial\MartínHerrera_SegundoParcial_2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\marti\Desktop\Segundo Parcial\MartínHerrera_SegundoParcial_2D\Entidades\obj\Debug\Entidades.pdb
+C:\Users\marti\Desktop\Segundo Parcial\MartínHerrera_SegundoParcial_2D\Entidades\bin\Debug\Archivos.dll
+C:\Users\marti\Desktop\Segundo Parcial\MartínHerrera_SegundoParcial_2D\Entidades\bin\Debug\Excepciones.dll
+C:\Users\marti\Desktop\Segundo Parcial\MartínHerrera_SegundoParcial_2D\Entidades\bin\Debug\Archivos.pdb
+C:\Users\marti\Desktop\Segundo Parcial\MartínHerrera_SegundoParcial_2D\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\marti\Desktop\Segundo Parcial\MartínHerrera_SegundoParcial_2D\Entidades\obj\Debug\Entidades.csproj.CopyComplete
